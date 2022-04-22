@@ -15,9 +15,8 @@ git clone https://github.com/busrakoseogluu/kodluyoruzilkrepo
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-
-System.out.println("cd koduyoruzilkrepo");
-System.out.println("code .");
+> cd kodluyoruzilkrepo
+> code .
 
 # Contributing
 
