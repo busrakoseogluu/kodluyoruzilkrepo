@@ -16,9 +16,8 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-cd kodluyoruzilkrepo
-
-code . 
+System.out.println("cd koduyoruzilkrepo");
+System.out.println("code .");
 
 # Contributing
 
