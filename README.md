@@ -1,2 +1,2 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Java-101
+patika.dev
