@@ -7,7 +7,7 @@ LICENSE dosyası barındırıyor.
 
 # Installation
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre class="notranslate"><code class="notranslate">git clone https://github.com/selimsefakaya/kodluyoruzilkrepo.git 
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre class="notranslate"><code class="notranslate">git clone https://github.com/busrakoseogluu/kodluyoruzilkrepo
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/selimsefakaya/kodluyoruzilkrepo.git " tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
@@ -35,7 +35,7 @@ code ." tabindex="0" role="button">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
     </clipboard-copy>
-  </div></div>.
+  </div></div>
 
 # Contributing
 
