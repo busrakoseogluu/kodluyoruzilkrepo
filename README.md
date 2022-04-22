@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [Kodluyoruz](www.kodluyoruz.org) Backend Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet 
@@ -15,9 +15,10 @@ git clone https://github.com/busrakoseogluu/kodluyoruzilkrepo
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-> cd kodluyoruzilkrepo
 
-> code .
+cd kodluyoruzilkrepo
+
+code . 
 
 # Contributing
 
