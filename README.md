@@ -1,5 +1,4 @@
 # Kodluyoruz İlk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [Kodluyoruz](www.kodluyoruz.org) Backend Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası ve bir adet 
 LICENSE dosyası barındırıyor.
